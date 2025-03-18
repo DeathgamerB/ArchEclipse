@@ -15,7 +15,7 @@ Check the original authors Discord
 
 - Enhanced productivity
 - Faster responsiveness
-- [Wallpapers](https://github.com/DeathgamerB/hyprland-conf/tree/master/.config/wallpapers)
+- [Wallpapers](https://github.com/DeathgamerB/ArchEclipse/tree/master/.config/wallpapers)
 - Smooth animations
 - Vibrant color schemes
 
@@ -69,7 +69,7 @@ Check the original authors Discord
 
 # KeyBinds
 
-KeyBinds are displayed and organized [Here](https://github.com/DeathgamerB/hyprland-conf/blob/master/.config/hypr/configs/keybinds.conf), be sure to check them out!
+KeyBinds are displayed and organized [Here](https://github.com/DeathgamerB/ArchEclipse/blob/master/.config/hypr/configs/keybinds.conf), be sure to check them out!
 
 # Installation and Update
 
@@ -81,7 +81,7 @@ KeyBinds are displayed and organized [Here](https://github.com/DeathgamerB/hyprl
 
 - [Arch Linux](https://archlinux.org/) (I use Arch linux BTW)
 - [Hyprland](https://hyprland.org/)
-- [Necessary packages](https://github.com/DeathgamerB/hyprland-conf/blob/master/.config/hypr/pacman/pkglist.txt) (do not worry they will be installed automatically)
+- [Necessary packages](https://github.com/DeathgamerB/ArchEclipse/blob/master/.config/hypr/pacman/pkglist.txt) (do not worry they will be installed automatically)
 
 ## Installation Guide
 
@@ -104,7 +104,7 @@ update
 - User Icon is stored in `$HOME/.face.icon`
 - Press `SUPER + w` to select the wallpaper you like
 - Custom wallpapers should be added in `$HOME/.config/wallpapers/custom`
-- Most functionalities have associated [keybinds](https://github.com/DeathgamerB/hyprland-conf/blob/master/.config/hypr/configs/keybinds.conf). Check them out!
+- Most functionalities have associated [keybinds](https://github.com/DeathgamerB/ArchEclipse/blob/master/.config/hypr/configs/keybinds.conf). Check them out!
 
 > **Important**: If you encounter any problems, no matter how small, please feel free to open an issue. I’m happy to help! :)
 
