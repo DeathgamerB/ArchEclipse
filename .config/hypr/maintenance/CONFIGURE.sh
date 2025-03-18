@@ -10,8 +10,8 @@ configure_keybord() {
     figlet "Keyboard"
     
     # List of keyboard layouts
-    kb_layouts=$(localectl list-x11-keymap-layouts)
-    kb_variants=$(localectl list-x11-keymap-variants)
+    kb_layouts=$(localectl list-keymaps)
+    kb_variants=$(localectl list-keymaps)
     
     selected_layouts=""
     selected_variants=""
