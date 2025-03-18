@@ -11,7 +11,7 @@ configure_keybord() {
     
     # List of keyboard layouts
     kb_layouts=$(localectl list-keymaps)
-    kb_variants=$(localectl list-keymaps)
+    kb_variants=qwertz
     
     selected_layouts=""
     selected_variants=""
