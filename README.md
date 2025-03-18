@@ -88,7 +88,7 @@ KeyBinds are displayed and organized [Here](https://github.com/DeathgamerB/hyprl
 > Run this one liner in the terminal -- Say `Yes` to everything
 
 ```bash
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/AymanLyesri/ArchEclipse/refs/heads/master/.config/hypr/maintenance/INSTALL.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/DeathgamerB/ArchEclipse/refs/heads/master/.config/hypr/maintenance/INSTALL.sh)"
 ```
 
 ## Update Guide
