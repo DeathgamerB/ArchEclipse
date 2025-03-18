@@ -1,16 +1,11 @@
-# **Arch Eclipse**
+# **Arch Eclipse Fork**
 
 # Description
 
-This is my daily driver configuration that I use on both my laptop and desktop for coding, gaming, trading, browsing the web, etc., with Dvorak in mind. I am constantly adding new features and improvements.
-
-I use Arch BTW.. :)
-
-> **Feel free to open an issue ♡ (anything you can think of)!**
-
+This is my daily driver configuration that I use on my laptop.
 # Discord
 
-New official [Discord](https://discord.gg/ryN4PRHF) server.
+Check the original authors Discord
 
 # See Wiki
 
@@ -20,7 +15,7 @@ New official [Discord](https://discord.gg/ryN4PRHF) server.
 
 - Enhanced productivity
 - Faster responsiveness
-- [Wallpapers galore](https://github.com/AymanLyesri/hyprland-conf/tree/master/.config/wallpapers)
+- [Wallpapers](https://github.com/DeathgamerB/hyprland-conf/tree/master/.config/wallpapers)
 - Smooth animations
 - Vibrant color schemes
 
@@ -50,7 +45,6 @@ New official [Discord](https://discord.gg/ryN4PRHF) server.
     - Calendar (WIP)
     - System Updater (WIP)
   - User Panel (logout etc...)
-- **High-quality wallpapers** from [Danbooru](https://danbooru.donmai.us), [Yandere](https://yande.re), and [Gelbooru](https://gelbooru.com)
 
 # Current Workflow
 
@@ -75,7 +69,7 @@ New official [Discord](https://discord.gg/ryN4PRHF) server.
 
 # KeyBinds
 
-KeyBinds are displayed and organized [Here](https://github.com/AymanLyesri/hyprland-conf/blob/master/.config/hypr/configs/keybinds.conf), be sure to check them out!
+KeyBinds are displayed and organized [Here](https://github.com/DeathgamerB/hyprland-conf/blob/master/.config/hypr/configs/keybinds.conf), be sure to check them out!
 
 # Installation and Update
 
@@ -87,7 +81,7 @@ KeyBinds are displayed and organized [Here](https://github.com/AymanLyesri/hyprl
 
 - [Arch Linux](https://archlinux.org/) (I use Arch linux BTW)
 - [Hyprland](https://hyprland.org/)
-- [Necessary packages](https://github.com/AymanLyesri/hyprland-conf/blob/master/.config/hypr/pacman/pkglist.txt) (do not worry they will be installed automatically)
+- [Necessary packages](https://github.com/DeathgamerB/hyprland-conf/blob/master/.config/hypr/pacman/pkglist.txt) (do not worry they will be installed automatically)
 
 ## Installation Guide
 
@@ -110,17 +104,13 @@ update
 - User Icon is stored in `$HOME/.face.icon`
 - Press `SUPER + w` to select the wallpaper you like
 - Custom wallpapers should be added in `$HOME/.config/wallpapers/custom`
-- Most functionalities have associated [keybinds](https://github.com/AymanLyesri/hyprland-conf/blob/master/.config/hypr/configs/keybinds.conf). Check them out!
+- Most functionalities have associated [keybinds](https://github.com/DeathgamerB/hyprland-conf/blob/master/.config/hypr/configs/keybinds.conf). Check them out!
 
 > **Important**: If you encounter any problems, no matter how small, please feel free to open an issue. I’m happy to help! :)
 
 # Additional Notes
 
 - Machines with batteries (aka: laptops) require `upower` to be installed for battery monitoring to work properly.
-
-# Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=aymanlyesri/hyprland-conf&type=Date)](https://star-history.com/#aymanlyesri/hyprland-conf&Date)
 
 # Visuals
 
