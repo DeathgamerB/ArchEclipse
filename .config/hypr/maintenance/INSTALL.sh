@@ -15,7 +15,7 @@ if [ -d "$CONF_DIR" ]; then
     echo "$CONF_DIR directory exists."
 else
     echo "$CONF_DIR directory does not exist. Cloning the repository..."
-    git clone https://github.com/AymanLyesri/ArchEclipse.git --depth 1
+    git clone https://github.com/DeathgamerB/ArchEclipse.git --depth 1
 fi
 
 # Change branch to the specified branch
